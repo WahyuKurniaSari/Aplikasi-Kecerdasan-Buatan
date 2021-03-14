@@ -1,8 +1,11 @@
 
+Sistem Pakar Diagnosa Penyakit Tanaman Padi Berbasis WEB Dengan Forward dan Backward Chaining
+
 Nama: Wahyu Kurnia Sari
 Kelas: D4TI 3A
 Npm: 1184001
 Dosen Pengampu: M Nurkamal Fauzan, ST, MT
+
 
 
 
