@@ -1,3 +1,4 @@
+![ini](https://user-images.githubusercontent.com/57054608/111072630-f4057700-850d-11eb-96d4-a3892d9946d5.png)
 
 Sistem Pakar Diagnosa Penyakit Tanaman Padi Berbasis WEB Dengan Forward dan Backward Chaining
 
