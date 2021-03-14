@@ -1,13 +1,11 @@
 
-
-Sistem Pakar Diagnosa Penyakit Tanaman Padi Berbasis WEB Dengan Forward dan Backward Chaining
-
 Nama: Wahyu Kurnia Sari
 Kelas: D4TI 3A
 Npm: 1184001
 Dosen Pengampu: M Nurkamal Fauzan, ST, MT
 
 
+SISTEM PAKAR DIAGNOSA PENYAKIT TANAMAN PADI BERBASIS WEB DENGAN FORWARD DAN BACKWARD CHAINING
 
 
 Forward dan backward chaining merupakan dua teknik penalaran yang bisa anda gunakan dalam pembuatan sistem pakar.
